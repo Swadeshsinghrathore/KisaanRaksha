@@ -1,3 +1,25 @@
+# Last Update
+Farmer dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba8486a2-10c1-4f54-a0eb-cc14065c5fd3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # KisaanRaksha 🌾
 
 **KisaanRaksha** is an AI-powered platform to help Indian farmers with:
