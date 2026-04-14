@@ -10,7 +10,7 @@
 ## Project Structure
 ```
 kisaanraksha/
-├── frontend/        # HTML, CSS, JS UI
+├── frontend/       # HTML, CSS, JS UI
 ├── backend/         # Python backend (Flask/FastAPI)
 │   ├── models/      # ML model definitions
 │   ├── services/    # External API integrations
