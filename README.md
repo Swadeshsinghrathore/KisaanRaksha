@@ -1,24 +1,11 @@
 # Last Update
-                    Farmer dashboard
-Uploading Screen Recording 2026-04-15 000006.mp4…
 
 
+https://github.com/user-attachments/assets/3fb9daa1-7362-435e-b4b9-f2660a531338
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 
 
